@@ -1,0 +1,9 @@
+name: "Campus Resource Sheet Upload Page"
+output_dir: "."
+
+output:
+  html_document:
+    theme: paper
+    highlight: textmate
+
+ 

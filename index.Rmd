@@ -1,3 +1,4 @@
 
 # Please upload your Campus Resource Sheet using the widget below. 
 
+<script src="https://csuchico.app.box.com/upload-widget/embed.js?folderID=65996151942&height=420&isDescriptionFieldShown=0&isEmailRequired=1&title=Submit%20File(s)%20to%20Campus%20Resource%20Sheets%20-%20Submitted&token=h5r6j0j0vxu3un8k73rk0253ba1cp56i&width=385" type="text/javascript"></script> 
